@@ -1,0 +1,23 @@
+{
+  "name": "typescript_playground",
+  "version": "1.0.0",
+  "description": "Code repo to learn TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc --watch --preserveWatchOutput"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chubchubcharles/typescript_playground.git"
+  },
+  "author": "Charles L",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chubchubcharles/typescript_playground/issues"
+  },
+  "homepage": "https://github.com/chubchubcharles/typescript_playground#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
